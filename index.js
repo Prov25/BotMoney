@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["777Fam Bot","Creato Da Prov_25"];
+const statusMessages = ["Mon3y Bot","Creato Da Prov_25"];
 
 
 let currentIndex = 0;
